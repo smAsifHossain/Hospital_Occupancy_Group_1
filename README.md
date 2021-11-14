@@ -1,3 +1,5 @@
 # Hospital_Occupancy_Group_1
 
+This project is maintaining by S M ASIF HOSSAIN.
+
 Our system maintains hospital occupancy. In our system, a user can do registration using his/her phone number, username, password. System administrator will verify his/her data and resister him/her as a user. User can book ICU. When user request to book ICU, system administrator forwards the request to the hospital (management). When hospital management confirms the request, system administrator notify the user to take the service. User can book an ambulance. When he/she request to book an ambulance, system administrator forwards the request to few ambulance drivers(management). When a driver confirms the request, system administrator notify user to take the service. User can request for oxygen. System administrator forwards the request to the supplier company. When supplier company confirms the request, system administrator notify user that oxygen will be delivered. After taking service, accountant calculates the bill and system administrator shows the amount to the user. When user pays the bill, accountant will receive the bill and distributes according to percentage.
